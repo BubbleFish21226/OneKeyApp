@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OneKeyApp/static/css/main.55c4111c.css",
+    "main.js": "/OneKeyApp/static/js/main.6e85d591.js",
+    "index.html": "/OneKeyApp/index.html",
+    "main.55c4111c.css.map": "/OneKeyApp/static/css/main.55c4111c.css.map",
+    "main.6e85d591.js.map": "/OneKeyApp/static/js/main.6e85d591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c4111c.css",
+    "static/js/main.6e85d591.js"
+  ]
+}
